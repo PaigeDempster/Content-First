@@ -1,0 +1,19 @@
+.broadside {
+			background-color: #74d6ff;
+			color: black;
+			padding: 10px;
+			margin-top: 100px;
+   			margin-bottom: 100px;
+  			margin-right: 150px;
+    		margin-left: 90px;
+			}
+			
+.otherbroadside {
+			background-color: #74d6ff;
+			color: black;
+			padding: 10px;
+			margin-top: 100px;
+   			margin-bottom: 100px;
+  			margin-right: 90px;
+    		margin-left: 150px;
+    		}
