@@ -1,19 +1,31 @@
 .broadside {
-			background-color: #74d6ff;
+			background-color: skyblue;
 			color: black;
-			padding: 10px;
-			margin-top: 100px;
-   			margin-bottom: 100px;
-  			margin-right: 150px;
-    		margin-left: 90px;
+			padding: 30px;
+			font-family: arial;
+			font-size: 110%;
+			}
+
+.otherbroadside {
+			background-color: skyblue;
+			color: #535353;
+			padding: 30px;
+			font-family: arial;
+			font-size: 110%;
+    		}
+    		
+.otherotherbroadside {
+			background-color: skyblue;
+			color: gray;
+			padding: 30px;
+			font-family: arial;
+			font-size: 110%;
 			}
 			
-.otherbroadside {
-			background-color: #74d6ff;
-			color: black;
-			padding: 10px;
-			margin-top: 100px;
-   			margin-bottom: 100px;
-  			margin-right: 90px;
-    		margin-left: 150px;
-    		}
+.otherotherotherbroadside {
+			background-color: skyblue;
+			color: #ededed;
+			padding: 30px;
+			font-family: arial;
+			font-size: 110%;
+			}
