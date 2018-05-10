@@ -1,9 +1,14 @@
+.desc {
+            font-size: 75%;
+            }
+            
 .broadside {
 			background-color: skyblue;
 			color: black;
 			padding: 30px;
 			font-family: arial;
-			font-size: 110%;
+			font-size: 1em;
+			line-height: 2;
 			}
 
 .otherbroadside {
@@ -12,6 +17,7 @@
 			padding: 30px;
 			font-family: arial;
 			font-size: 110%;
+			line-height: 2;
     		}
     		
 .otherotherbroadside {
@@ -20,6 +26,7 @@
 			padding: 30px;
 			font-family: arial;
 			font-size: 110%;
+			line-height: 2;
 			}
 			
 .otherotherotherbroadside {
@@ -28,4 +35,87 @@
 			padding: 30px;
 			font-family: arial;
 			font-size: 110%;
+			line-height: 2;
 			}
+.navbar {
+			position:fixed;
+			top:0;
+			overflow: hidden;
+			background-color: skyblue;
+			width: 100%;
+			font-family: arial;
+			font-size: 150%;
+			font-color: black;
+			text-align: center;
+			padding: 14px 16px;}
+			
+.navbar a:hover {
+            text-decoration: none;
+            }
+
+h1 {
+	background-color: skyblue;
+	color: white;
+	font-family: arial;
+	font-size: 400%;
+	text-align: center;
+	}
+h2 {
+	font-family: arial;
+	font-size: 75%;
+	text-align: center;
+	}
+p {
+	color: black;
+	font-family: arial;
+	font-size: 110%;
+	}
+body,
+        .blue {
+            background: skyblue;
+            margin: 0;
+        }
+        .wrapper {
+            background: white;
+            padding: 60px 0 100px 0;
+            margin: 0 auto;
+        }
+        .blue {
+            margin: 10px 0;
+            width: 75%;
+        }
+        .blue.right {
+            margin-left: auto;
+        }
+footer {
+	color: blue;
+	text-align: center;
+	padding: 10px;
+	}
+
+@media only screen and (max-device-width: 600px) {
+
+.desc {
+             font-size: 50%;
+             }
+
+.broadside {
+             font-size: 300%;
+             }
+             
+.otherbroadside {
+             font-size: 300%;
+             }
+
+.otherotherbroadside {
+             font-size: 300%;
+             }
+             
+.otherotherotherbroadside {
+             font-size: 300%;
+             }
+.arial-is {
+             font-size: 75%;
+             display: inline-block;
+             }
+        
